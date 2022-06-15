@@ -13,9 +13,9 @@
 É um Cadastro de Clientes, que faz a consulta do endereço via API digitando o CEP e retornando <br>
 o resultado preenchendo os campos correspondentes.
 
-Fiz o projeto responsivo para celulares.<br>
-Sempre em busca de novos conhecimentos e saindo da minha zona de conforto, estou aprimorando meus <br>
-conhecimentos em API. Tanto consumindo quanto escrevendo minha própria quando necessário.
+Fiz o projeto responsivo para celulares e como sempre estou em busca de novos conhecimentos e <br> 
+saindo da minha zona de conforto, estou aprimorando meus conhecimentos em API. Tanto consumindo <br> 
+quanto escrevendo minha própria quando necessário.
 
 
 Link da aplicação (Deploy): https://api-cep-dimas.netlify.app/
